@@ -1,11 +1,11 @@
-About r-etrunct
-===============
+About r-etrunct-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-etrunct-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=etrunct
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-etrunct-feedstock/blob/main/LICENSE.txt)
 
 Summary: Computes moments of univariate truncated t distribution. There is only one exported function, e_trunct(), which should be seen for details.
 
